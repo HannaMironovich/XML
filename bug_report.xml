@@ -6,7 +6,7 @@
   <Steps_To_Reproduce>
     <One_Step>Select any dish</One_Step>
     <Two_Step>Go to the basket</Two_Step>
-    <Three_Step>Select a date next to the last delivery date in the menu (e.x. menu 8-11 Nov, select 15 Nov)</Three-Step>
+    <Three_Step>Select a date next to the last delivery date in the menu (e.x. menu 8-11 Nov, select 15 Nov)</Three_Step>
     <Four_Step>After the pop-up 'Delivery up to 14.11' appears, click on the 'Change a date' button</Four_Step>
   </Steps_To_Reproduce>
   <Expected_Result>The pop-up 'Delivery up to 14.11' does not appear.</Expected_Result>
