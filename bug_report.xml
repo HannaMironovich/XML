@@ -2,7 +2,7 @@
   <Issue_Title>Pop-up window does not disappear untill the date is not chsnged.</Issue_Title>
   <Issue_Type>Bug</Issue_Type>
   <Priority>Low</Priority>
-  <Issue_Status>Blocked</Issues-Status>
+  <Issue_Status>Blocked</Issues_Status>
   <Steps_To_Reproduce>
     <One_Step>Select any dish</One_Step>
     <Two_Step>Go to the basket</Two_Step>
